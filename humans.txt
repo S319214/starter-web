@@ -12,7 +12,7 @@ docker
 
 # THANKS
 
-    <name>
+    thanks to all my friends
 
 # TECHNOLOGY COLOPHON
 
