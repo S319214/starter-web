@@ -11,3 +11,4 @@ TO GIVE OPPUTUINITIES TO LEARN MORE.
 ## 	Git comparision
 
 Adding git comparisions lectures
+LETS START WITH THE TUTORIAL
