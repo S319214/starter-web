@@ -16,3 +16,4 @@ LETS START WITH THE TUTORIAL
 ## CONTRIBUTION 
 
 Fork the repo and raise pull request
+ADDING GIT REBASE LECTURES
