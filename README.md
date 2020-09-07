@@ -8,3 +8,6 @@ WHICH HELPS US IN LEARNING GIT AND ITS USES
 Sample website with plenty of files for demos
 TO GIVE OPPUTUINITIES TO LEARN MORE.
 
+## 	Git comparision
+
+Adding git comparisions lectures
