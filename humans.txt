@@ -6,6 +6,8 @@
 subham mohanty
 sbm.pdp@gmail.com
 software engineer trainee
+javascript\
+docker
 
 
 # THANKS
@@ -16,3 +18,4 @@ software engineer trainee
 
     HTML5, CSS3
     jQuery, Modernizr, javascript, angular
+	devops
