@@ -3,7 +3,10 @@
 
 # TEAM
 
-    <name> -- <role>subham mohanty<twitter>
+subham mohanty
+sbm.pdp@gmail.com
+software engineer trainee
+
 
 # THANKS
 
