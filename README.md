@@ -12,3 +12,7 @@ TO GIVE OPPUTUINITIES TO LEARN MORE.
 
 Adding git comparisions lectures
 LETS START WITH THE TUTORIAL
+
+## CONTRIBUTION 
+
+Fork the repo and raise pull request
