@@ -12,6 +12,7 @@ TO GIVE OPPUTUINITIES TO LEARN MORE.
 
 Adding git comparisions lectures
 LETS START WITH THE TUTORIAL
+lots of videos are already there in this course
 
 ## CONTRIBUTION 
 
