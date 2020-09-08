@@ -14,11 +14,13 @@ docker
 
     thanks to all my friends
 
+   hello how are you guys , i hope you all are fine
+
 # TECHNOLOGY COLOPHON
 
    
-<<<<<<< HEAD
+
 machine learning, aws, google cloud
-=======
+
 	devops
->>>>>>> develop
+
