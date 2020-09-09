@@ -25,4 +25,5 @@ machine learning, aws, google cloud
 
 	devops
 solution developer
+devops
 
