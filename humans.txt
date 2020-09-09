@@ -24,4 +24,5 @@ i am a software enginneer trainee
 machine learning, aws, google cloud
 
 	devops
+solution developer
 
